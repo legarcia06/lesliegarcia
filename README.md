@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @legarcia06
+- 👋 Hi, I’m @lesliedolores
 - 👀 I’m interested in film, storytelling & human-centered design
 - 🌱 I’m a Project Managemet professional by day and learning UX/UI Design by night
 - 💞️ I’m looking to collaborate on solutions based projects 
