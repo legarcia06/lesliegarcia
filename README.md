@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @legarcia06
-- 👀 I’m interested in film, video, and food
-- 🌱 I’m currently learning UX Design
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in film, storytelling & human-centered design
+- 🌱 I’m a Project Managemet professional by day and learning UX/UI Design by night
+- 💞️ I’m looking to collaborate on solutions based projects 
 - 📫 How to reach me by email garcia.leslie88@gmail.com
 
 <!---
